@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox style="-fx-background-color: #333333;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <JFXButton fx:id="account" accessibleText="Personas" alignment="BOTTOM_LEFT" buttonType="RAISED" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Account" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../images/buttons/acc2.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <JFXButton fx:id="affiliate" accessibleText="Statistics" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Affiliate Program" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../images/buttons/money.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+      </JFXButton>
+      <JFXButton fx:id="notifications" accessibleText="Statistics" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Notification" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../images/buttons/notifications.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <JFXButton fx:id="general" accessibleText="Statistics" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="General" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../images/buttons/general_settings.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <JFXButton fx:id="tutorials" accessibleText="Statistics" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Video Tutorials" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../images/buttons/video.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+      </JFXButton>
+   </children>
+</VBox>

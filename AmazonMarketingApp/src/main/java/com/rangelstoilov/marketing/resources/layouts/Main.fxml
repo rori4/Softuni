@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXDrawer?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="659.0" prefWidth="341.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.controllers.MainController">
+   <top>
+      <VBox>
+         <children>
+            <MenuBar style="-fx-background-color: #EDEDED;" BorderPane.alignment="CENTER">
+              <menus>
+                <Menu mnemonicParsing="false" text="File">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Close" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Edit">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="Delete" />
+                  </items>
+                </Menu>
+                <Menu mnemonicParsing="false" text="Help">
+                  <items>
+                    <MenuItem mnemonicParsing="false" text="About" />
+                  </items>
+                </Menu>
+              </menus>
+            </MenuBar>
+            <VBox>
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin>
+               <children>
+                  <HBox spacing="10.0" style="-fx-background-color: white;" stylesheets="@../styles/style.css">
+                     <children>
+                        <ImageView fx:id="btn_menu" fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/buttons/menu.png" />
+                           </image>
+                        </ImageView>
+                        <Region HBox.hgrow="ALWAYS" />
+                        <Label fx:id="menuTitle" alignment="CENTER" contentDisplay="CENTER" graphicTextGap="25.0" maxWidth="900.0" minWidth="94.0" prefHeight="25.0" prefWidth="107.0" text="Personas" textAlignment="CENTER" textFill="#4d4d4d" wrapText="true">
+                           <font>
+                              <Font name="Calibri Light" size="18.0" />
+                           </font>
+                        </Label>
+                        <Region minHeight="-Infinity" minWidth="-Infinity" HBox.hgrow="ALWAYS" />
+                        <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../images/buttons/info.png" />
+                           </image>
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                        </ImageView>
+                     </children>
+                     <effect>
+                        <ColorAdjust />
+                     </effect>
+                     <padding>
+                        <Insets bottom="8.0" left="8.0" right="8.0" top="8.0" />
+                     </padding>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </top>
+   <center>
+      <AnchorPane>
+         <children>
+            <AnchorPane fx:id="root_pane" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+              <JFXDrawer fx:id="drawer" alignment="TOP_LEFT" defaultDrawerSize="300.0" layoutY="-29.0" mouseTransparent="true" prefHeight="619.0" prefWidth="341.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

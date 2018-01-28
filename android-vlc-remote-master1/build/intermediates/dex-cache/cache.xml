@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Softuni\android-vlc-remote-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfdca56d372146fb7d78bdf943388fcdc3f79d8e">
+        <dex dex="D:\OneDrive\Softuni\android-vlc-remote-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a1bface614db54c3959b831fd1658459380b337\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\range\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\OneDrive\Softuni\android-vlc-remote-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_af094ab7b8f0ee4481e61d9d054848720d7f94a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\OneDrive\Softuni\android-vlc-remote-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\OneDrive\Softuni\android-vlc-remote-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5e4ef2357488c90bdb95e2f5350891d905540b3a\classes.dex" />
+    </item>
+
+</items>

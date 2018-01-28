@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Home</title>
+</head>
+<body>
+<a th:href="@{/app/login}">Login</a>
+<a th:href="@{/app/register}">Register</a>
+<a th:href="@{/}">Home</a>
+
+<div sec:authentication="name"></div>
+<div sec:authorize="hasRole('USER')">
+    This is a section visible to users only
+</div>
+<div sec:authorize="hasRole('ADMIN')">
+    This is a section visible to ADMINS only
+</div>
+</body>
+</html>

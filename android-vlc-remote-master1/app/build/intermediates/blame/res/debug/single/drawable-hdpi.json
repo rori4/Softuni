@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_transparent.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_transparent.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_previous_chapter.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_previous_chapter.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_navigation_on.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_on.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_vlc_server.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_vlc_server.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_artists_selected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_artists_selected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_small.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_volume_small.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_playlists_selected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playlists_selected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_vlc_server_forbidden.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_vlc_server_forbidden.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_vlc_server_auth.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_vlc_server_auth.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_albums_unselected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_albums_unselected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_volume_high.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_volume_high.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_volume_off_small.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_volume_off_small.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_volume_low.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_volume_low.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_playback_unselected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playback_unselected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mp_more_btn.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_mp_more_btn.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_audio_delay_decrease.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_audio_delay_decrease.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_fullscreen.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_fullscreen.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_close_clear_cancel.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_playback_pause.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_playback_pause.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_playlists_unselected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playlists_unselected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mime_video.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_mime_video.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_albums_selected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_albums_selected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_appwidget_settings_wifi_on_holo.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_appwidget_settings_wifi_on_holo.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_help.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_help.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_library.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_library.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mime_image.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_mime_image.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_audio_delay_preset_cycle.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_audio_delay_preset_cycle.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_checkmark.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_checkmark.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_start_conversation.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_artists_unselected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_artists_unselected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_notifications.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_notifications.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_cycle_audio_track.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_cycle_audio_track.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_tab_playback_selected.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_tab_playback_selected.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_popup_eject.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_popup_eject.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_subtitle_delay_increase.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_subtitle_delay_increase.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_library.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_library.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_volume_medium.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_volume_medium.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_crop.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_crop.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_up.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_up.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_seek_backward.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_seek_backward.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_directory.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_directory.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_call.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_call.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_clear_playlist.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_skip_backward.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_skip_backward.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_playback_start.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_playback_start.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_subtitle_delay_cycle.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_subtitle_delay_cycle.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_delay_preset_cycle.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_delay_preset_cycle.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_font_size.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_font_size.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_navigation_off.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_off.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_search.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_search.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_chat_dashboard.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_chat_dashboard.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_next_chapter.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_next_chapter.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_subtitle_delay_decrease.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_subtitle_delay_decrease.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_volume_muted.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_volume_muted.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_audio_delay_increase.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_audio_delay_increase.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_file.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_file.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_scan_network.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_scan_network.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_preferences.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_preferences.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_playback_stop.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_playback_stop.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_skip_forward.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_skip_forward.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_mime_audio.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_mime_audio.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_seek_forward.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi\\ic_media_seek_forward.png"
+    }
+]

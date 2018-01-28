@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">    
+    <group android:id="@+id/group_vlc_actions">
+        <item
+            android:id="@+id/menu_action_button_first"
+            android:showAsAction="always" />
+        <item
+            android:id="@+id/menu_action_button_second"
+            android:showAsAction="always" />
+        <item
+            android:id="@+id/menu_action_button_third"
+            android:showAsAction="always" />
+        <item
+            android:id="@+id/menu_action_button_fourth"
+            android:showAsAction="always" />
+        <item
+            android:id="@+id/menu_action_button_fifth"
+            android:showAsAction="always" />
+    </group>
+    <item
+        android:id="@+id/menu_help_install"
+        android:title="@string/install_guide"
+        android:icon="@drawable/ic_menu_help" />
+    <item
+        android:id="@+id/menu_help_faqs"
+        android:title="@string/faqs"
+        android:icon="@drawable/ic_menu_help" />
+    <item
+        android:id="@+id/menu_preferences"
+        android:title="@string/settings"
+        android:icon="@drawable/ic_menu_preferences"
+        android:showAsAction="ifRoom|withText" />
+</menu>

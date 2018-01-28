@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger\\notification_normal.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-finger\\notification_normal.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger\\album_appwidget.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-finger\\album_appwidget.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-finger\\notification_expanded.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-finger\\notification_expanded.xml"
+    }
+]

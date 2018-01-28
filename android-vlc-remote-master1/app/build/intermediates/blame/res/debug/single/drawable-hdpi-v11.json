@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_menu_home.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_menu_archive.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_menu_archive.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_menu_up.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_menu_up.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_menu_refresh.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\ic_menu_set_as.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi-v11\\ic_menu_set_as.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v11\\dialog_full_holo_dark.9.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-hdpi-v11\\dialog_full_holo_dark.9.png"
+    }
+]

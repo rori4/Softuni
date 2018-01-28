@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-h320dp-land-v13\\audio_player_buttons.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-h320dp-land\\audio_player_buttons.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-h320dp-land-v13\\playing_fragment.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-h320dp-land\\playing_fragment.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-h320dp-land-v13\\buttons_fragment.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-h320dp-land\\buttons_fragment.xml"
+    }
+]

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Home Page</title>
+</head>
+<body>
+    <h1>Home</h1>
+    <div>Logged in User</div>
+    <div sec:authentication="name"></div>
+    <div sec:authorize="hasRole('ADMIN')">Only for admins</div>
+    <div sec:authorize="hasRole('USER')">Only for users</div>
+</body>
+</html>

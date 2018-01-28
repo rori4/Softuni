@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.geometry.Rectangle2D?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<VBox style="-fx-background-color: #3646a3;" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <JFXButton fx:id="personas" accessibleText="Personas" alignment="BOTTOM_LEFT" buttonType="RAISED" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Personas Creator" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/acc.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <JFXButton fx:id="statistics1" accessibleText="Giveaway" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Giveaway Submitter" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/gift.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+      </JFXButton>
+      <JFXButton fx:id="statistics11" accessibleText="Facebook" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Facebook Group Poster" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/facebook.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <JFXButton fx:id="statistics" accessibleText="Amazon" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Amazon Reviewers Emails" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/email.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+      </JFXButton>
+      <JFXButton fx:id="statistics" accessibleText="Statistics" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Statistics Checker" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/stats.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+      </JFXButton>
+      <JFXButton accessibleText="Settings" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Settings" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/settings.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+      </JFXButton>
+      <JFXButton accessibleText="Help" alignment="BOTTOM_LEFT" graphicTextGap="15.0" prefHeight="25.0" prefWidth="330.0" text="Help" textAlignment="JUSTIFY" textFill="WHITE" textOverrun="CLIP">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+         <graphic>
+            <ImageView fitHeight="25.0" fitWidth="25.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/buttons/help.png" />
+               </image>
+               <viewport>
+                  <Rectangle2D />
+               </viewport>
+            </ImageView>
+         </graphic>
+         <padding>
+            <Insets bottom="10.0" left="25.0" right="10.0" top="10.0" />
+         </padding>
+      </JFXButton>
+   </children>
+</VBox>

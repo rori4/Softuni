@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="fragments/head::head"></head>
+
+<body class="theme-red">
+<!--<div th:replace="fragments/loader::div"></div>-->
+<div class="overlay"></div>
+<span th:insert="~{fragments/header}"></span>
+<span th:insert="~{fragments/sidebar}"></span>
+
+<section class="content">
+    @yield('content')
+</section>
+<span th:insert="~{fragments/scripts-bundle}"></span>
+</body>
+
+</html>

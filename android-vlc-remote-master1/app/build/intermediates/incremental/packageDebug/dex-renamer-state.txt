@@ -1,0 +1,7 @@
+#Fri Sep 22 00:27:01 EEST 2017
+base.0=D\:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5e4ef2357488c90bdb95e2f5350891d905540b3a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2a1bface614db54c3959b831fd1658459380b337\\classes.dex
+base.1=D\:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2a1bface614db54c3959b831fd1658459380b337
+file.0=D\:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5e4ef2357488c90bdb95e2f5350891d905540b3a\\classes.dex

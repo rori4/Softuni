@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="80dp"
+    android:layout_marginBottom="8dp"
+    android:paddingTop="16dp"
+    android:paddingBottom="16dp"
+    android:background="@drawable/dialog_full_holo_dark"
+    android:orientation="horizontal"
+    android:gravity="left|center_vertical">
+        <ImageView
+            android:id="@android:id/icon"
+            android:src="@drawable/ic_volume_small"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/volume"
+            android:padding="8dp"
+            android:layout_marginLeft="8dp" />
+        <SeekBar
+            style="?android:attr/seekBarStyle"
+            android:id="@android:id/progress"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:max="512" />
+</LinearLayout>
+

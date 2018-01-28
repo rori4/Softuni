@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="service_labels">
+        <item>Périphériques MTP</item>
+        <item>Capture vidéo</item>
+        <item>Capture audio</item>
+        <item>Flux réseau (SAP)</item>
+        <item>Channels.com</item>
+        <item>Mes images</item>
+        <item>Sélections Jamendo</item>
+        <item>Icecast Directory</item>
+        <item>Free Music Charts</item>
+        <item>Screen capture</item>
+        <item>Mes Vidéos</item>
+        <item>Disques</item>
+        <item>Freebox TV</item>
+        <item>Podcasts</item>
+        <item>Services Bonjour</item>
+        <item>Ma Musique</item>
+    </string-array>
+    <string-array name="service_values">
+        <item>mtp%7Blongname%3D%22MTP%20devices%22%7D</item>
+        <item>v4l%7Blongname%3D%22Video%20capture%22%7D</item>
+        <item>alsa%7Blongname%3D%22Audio%20capture%22%7D</item>
+        <item>sap%7Blongname%3D%22Network%20streams%20%28SAP%29%22%7D</item>
+        <item>lua%7Bsd%3D%27metachannels%27%2Clongname%3D%27Channels.com%27%7D</item>
+        <item>picture_dir%7Blongname%3D%22My%20Pictures%22%7D</item>
+        <item>lua%7Bsd%3D%27jamendo%27%2Clongname%3D%27Jamendo%20Selections%27%7D</item>
+        <item>lua%7Bsd%3D%27icecast%27%2Clongname%3D%27Icecast%20Directory%27%7D</item>
+        <item>lua%7Bsd%3D%27fmc%27%2Clongname%3D%27Free%20Music%20Charts%27%7D</item>
+        <item>xcb_apps%7Blongname%3D%22Screen%20capture%22%7D</item>
+        <item>video_dir%7Blongname%3D%22My%20Videos%22%7D</item>
+        <item>disc%7Blongname%3D%22Discs%22%7D</item>
+        <item>lua%7Bsd%3D%27freebox%27%2Clongname%3D%27Freebox%20TV%27%7D</item>
+        <item>podcast%7Blongname%3D%22Podcasts%22%7D</item>
+        <item>bonjour%7Blongname%3D%22Bonjour%20services%22%7D</item>
+        <item>audio_dir%7Blongname%3D%22My%20Music%22%7D</item>
+    </string-array>
+    <string name="action_search_title">Recherche playlist</string>
+    <string name="add_server">Ajouter un serveur VLC</string>
+    <string name="app_name">Télécommande pour VLC</string>
+    <string name="browse_close">Fermer</string>
+    <string name="browse_empty">Aucun fichier trouvé</string>
+    <string name="browse_home">Accueil</string>
+    <string name="browse_libraries">Bibliothèques</string>
+    <string name="cancel">Annuler</string>
+    <string name="connection_error">Pas de connexion</string>
+    <string name="context_add_library">Ajouter à la bibliothèque…</string>
+    <string name="context_add_library_new">Nouvelle bibliothèque</string>
+    <string name="context_dequeue">Retirer de la liste</string>
+    <string name="context_enqueue">Ajouter à la liste</string>
+    <string name="context_forget">Oublier</string>
+    <string name="context_open">Ouvrir</string>
+    <string name="context_play">Lire</string>
+    <string name="context_remove_from_library">Supprimer de la bibliothèque…</string>
+    <string name="context_remove_library">Supprimer la bibliothèque</string>
+    <string name="context_search">Rechercher</string>
+    <string name="context_stream">Streamer</string>
+    <string name="description">Contrôle à distance pour le lecteur multimédia VideoLAN Client (VLC).</string>
+    <string name="dvd_instructions">Glissez dans une direction (haut, bas, gauche, droite) pour naviguer dans les menus du DVD. Tapotez pour sélectionner un élement du menu</string>
+    <string name="emptyplaylist">Liste de lecture vide.</string>
+    <string name="error_does_not_exist">"Le dossier sélectionné n'existe pas."</string>
+    <string name="faqs">Foire Aux Questions</string>
+    <string name="goto_playback">Lecture</string>
+    <string name="goto_start">Bibliothèque</string>
+    <string name="hint_library_add">Nom de la bibliothèque</string>
+    <string name="install_guide">Installation Guide</string>
+    <string name="label_hostname">"Nom d'hôte ou addresse IP"</string>
+    <string name="label_port">Port</string>
+    <string name="loading">Chargement…</string>
+    <string name="mediasearch">Rechercher %s en utilisant :</string>
+    <string name="menu_clear_playlist">Vider la liste</string>
+    <string name="menu_parent">Dossier parent</string>
+    <string name="menu_parent_condensed">Parent</string>
+    <string name="menu_set_home">Définir comme accueil</string>
+    <string name="no_media">Aucun média sélectionné</string>
+    <string name="noserver">Serveur non sélectionné.</string>
+    <string name="nowplaying_title">En cours</string>
+    <string name="ok">OK</string>
+    <string name="playlist_loop">En boucle</string>
+    <string name="playlist_repeat">Répéter</string>
+    <string name="playlist_shuffle">Aléatoire</string>
+    <string name="playlist_title">Liste de lecture</string>
+    <string name="progress_scanning">Recherche en cours</string>
+    <string name="refresh">Actualiser</string>
+    <string name="scan">Rechercher</string>
+    <string name="search_hint">Entrer MRL</string>
+    <string name="search_label">Entrée</string>
+    <string name="section_parent">"?"</string>
+    <string name="service_label">VLC Remote Service</string>
+    <string name="sethome">Accueil défini sur %s</string>
+    <string name="settings">Paramètres</string>
+    <string name="summary_forbidden">"Merci d'éditer le fichier <b>.hosts</b> sur votre PC"</string>
+    <string name="summary_not_in_range">Hors de portée</string>
+    <string name="summary_remembered">Mémorisé</string>
+    <string name="summary_wifi_connected">Connecté à {0}</string>
+    <string name="summary_wifi_disconnected">Attention: le Wi-Fi est déconnecté</string>
+    <string name="tab_dvd">DVD</string>
+    <string name="tab_playlist">Liste de lecture</string>
+    <string name="title">VLC Remote [{0}]</string>
+    <string name="title_dialog_add_library">Ajouter à une nouvelle bibliothèque</string>
+    <string name="title_dialog_remove_from_library">Supprimer un répertoire de la bibliothèque</string>
+    <string name="title_pick_server">Choisissez un serveur</string>
+    <string name="toast_added_to_library">Ajouté %1$s à la bibliothèque %2$s</string>
+    <string name="vlc_servers">Serveurs VLC</string>
+    <string name="volume">Volume : </string>
+    <string name="wifi">Wi-Fi</string>
+</resources>

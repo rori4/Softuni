@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:replace="fragments/head::head"></head>
+
+<body class="login-page">
+<div class="login-box">
+    <div class="logo">
+        <a href="javascript:void(0);">Admin<b>BSB</b></a>
+        <small>Admin BootStrap Based - Material Design</small>
+    </div>
+    <div class="card">
+        <div class="body">
+            <form th:replace="fragments/forms::${form}"></form>
+        </div>
+    </div>
+</div>
+<span th:insert="fragments/scripts-bundle"></span>
+</body>
+
+</html>

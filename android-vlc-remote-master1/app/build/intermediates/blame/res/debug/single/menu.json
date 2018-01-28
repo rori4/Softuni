@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\playlist_context.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\menu\\playlist_context.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\browse_options.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\menu\\browse_options.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\playback_options.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\menu\\playback_options.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\playlist_options.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\menu\\playlist_options.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\browse_context.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\menu\\browse_context.xml"
+    }
+]

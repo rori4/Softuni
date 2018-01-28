@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\stat_notify_musicplayer.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\stat_notify_musicplayer.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_album_playback.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_album_playback.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_appwidget_music_pause.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_appwidget_music_pause.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_appwidget_music_play.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_appwidget_music_play.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_repeat_off_btn.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_repeat_off_btn.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_shuffle_off_btn.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_shuffle_off_btn.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_appwidget_music_next.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_appwidget_music_next.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_shuffle_on_btn.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_shuffle_on_btn.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\albumart_mp_unknown.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\albumart_mp_unknown.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\appwidget_divider.9.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\appwidget_divider.9.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_repeat_once_btn.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_repeat_once_btn.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_artist_playback.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_artist_playback.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_repeat_all_btn.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_repeat_all_btn.png"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger\\ic_mp_song_playback.png",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\drawable-mdpi-finger\\ic_mp_song_playback.png"
+    }
+]

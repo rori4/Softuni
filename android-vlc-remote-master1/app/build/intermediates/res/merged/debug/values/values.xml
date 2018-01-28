@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buttonEntries">
+        <item>Default</item>
+        <item>Crop Video</item>
+        <item>Subtitle Track</item>
+        <item>Fullscreen Toggle</item>
+        <item>Audio Track</item>
+        <item>Aspect Ratio</item>
+        <item>Previous Chapter</item>
+        <item>Next Chapter</item>
+        <item>Subtitle Delay Increase</item>
+        <item>Subtitle Delay Decrease</item>
+        <item>Subtitle Delay Preset Toggle</item>
+        <item>Audio Delay Increase</item>
+        <item>Audio Delay Decrease</item>
+        <item>Audio Delay Preset Toggle</item>
+        <item>Toggle Delay Presets</item>
+    </string-array>
+    <string-array name="buttonEntryValues">
+        <item>default</item>
+        <item>crop</item>
+        <item>subtitle</item>
+        <item>fullscreen</item>
+        <item>audio_track</item>
+        <item>aspect_ratio</item>
+        <item>chapter_prev</item>
+        <item>chapter_next</item>
+        <item>subtitle_delay_increase</item>
+        <item>subtitle_delay_decrease</item>
+        <item>subtitle_delay_toggle</item>
+        <item>audio_delay_increase</item>
+        <item>audio_delay_decrease</item>
+        <item>audio_delay_toggle</item>
+        <item>delay_toggle</item>
+    </string-array>
+    <string-array name="service_labels">
+        <item>MTP devices</item>
+        <item>Video capture</item>
+        <item>Audio capture</item>
+        <item>Network streams (SAP)</item>
+        <item>Channels.com</item>
+        <item>My Pictures</item>
+        <item>Jamendo Selections</item>
+        <item>Icecast Directory</item>
+        <item>Free Music Charts</item>
+        <item>Screen capture</item>
+        <item>My Videos</item>
+        <item>Discs</item>
+        <item>Freebox TV</item>
+        <item>Podcasts</item>
+        <item>Bonjour services</item>
+        <item>My Music</item>
+    </string-array>
+    <string-array name="service_values">
+        <item>mtp%7Blongname%3D%22MTP%20devices%22%7D</item>
+        <item>v4l%7Blongname%3D%22Video%20capture%22%7D</item>
+        <item>alsa%7Blongname%3D%22Audio%20capture%22%7D</item>
+        <item>sap%7Blongname%3D%22Network%20streams%20%28SAP%29%22%7D</item>
+        <item>lua%7Bsd%3D%27metachannels%27%2Clongname%3D%27Channels.com%27%7D</item>
+        <item>picture_dir%7Blongname%3D%22My%20Pictures%22%7D</item>
+        <item>lua%7Bsd%3D%27jamendo%27%2Clongname%3D%27Jamendo%20Selections%27%7D</item>
+        <item>lua%7Bsd%3D%27icecast%27%2Clongname%3D%27Icecast%20Directory%27%7D</item>
+        <item>lua%7Bsd%3D%27fmc%27%2Clongname%3D%27Free%20Music%20Charts%27%7D</item>
+        <item>xcb_apps%7Blongname%3D%22Screen%20capture%22%7D</item>
+        <item>video_dir%7Blongname%3D%22My%20Videos%22%7D</item>
+        <item>disc%7Blongname%3D%22Discs%22%7D</item>
+        <item>lua%7Bsd%3D%27freebox%27%2Clongname%3D%27Freebox%20TV%27%7D</item>
+        <item>podcast%7Blongname%3D%22Podcasts%22%7D</item>
+        <item>bonjour%7Blongname%3D%22Bonjour%20services%22%7D</item>
+        <item>audio_dir%7Blongname%3D%22My%20Music%22%7D</item>
+    </string-array>
+    <color name="appwidget_button_focus">#b299cc00</color>
+    <color name="appwidget_button_press">#b26899ff</color>
+    <color name="appwidget_text">#ffffffff</color>
+    <dimen name="appwidget_height">80dip</dimen>
+    <dimen name="appwidget_width">311dip</dimen>
+    <item name="fragment_art" type="id"/>
+    <item name="fragment_bottom_actionbar" type="id"/>
+    <item name="fragment_browse" type="id"/>
+    <item name="fragment_buttons" type="id"/>
+    <item name="fragment_info" type="id"/>
+    <item name="fragment_navigation" type="id"/>
+    <item name="fragment_playback" type="id"/>
+    <item name="fragment_playing" type="id"/>
+    <item name="fragment_playlist" type="id"/>
+    <item name="fragment_services_discovery" type="id"/>
+    <item name="fragment_volume" type="id"/>
+    <item name="tab_browse" type="id"/>
+    <item name="tab_media" type="id"/>
+    <item name="tab_navigation" type="id"/>
+    <item name="tab_playlist" type="id"/>
+    <string name="action_search_title">Search Playlist</string>
+    <string name="add_server">Add VLC Server</string>
+    <string name="app_name">VLC Remote</string>
+    <string name="app_name_market">Remote for VLC (Fork)</string>
+    <string name="aspect_ratio">Aspect ratio</string>
+    <string name="audio_track">Audio track</string>
+    <string name="browse_close">Close</string>
+    <string name="browse_empty">No files were found. This may be because you do not have permission to access the directory</string>
+    <string name="browse_home">Home</string>
+    <string name="browse_libraries">Libraries</string>
+    <string name="button_default_value">default</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="connection_error">No connection</string>
+    <string name="context_add_library">Add to Library…</string>
+    <string name="context_add_library_new">New Library</string>
+    <string name="context_dequeue">Remove from playlist</string>
+    <string name="context_enqueue">Add to playlist</string>
+    <string name="context_forget">Forget Server</string>
+    <string name="context_open">Open</string>
+    <string name="context_play">Play</string>
+    <string name="context_remove_from_library">Remove from Library…</string>
+    <string name="context_remove_library">Remove Library</string>
+    <string name="context_search">Search</string>
+    <string name="context_stream">Stream</string>
+    <string name="crop">Video crop</string>
+    <string name="desc_button_audio_delay_decrease">Decrease audio delay</string>
+    <string name="desc_button_audio_delay_increase">Increase audio delay</string>
+    <string name="desc_button_audio_delay_toggle">Toggle audio delay between none and preset</string>
+    <string name="desc_button_chapter_next">Next chapter</string>
+    <string name="desc_button_chapter_previous">Previous chapter</string>
+    <string name="desc_button_delay_toggle">Toggle audio and subtitle delays between none and the presets</string>
+    <string name="desc_button_play_pause">Play/Pause</string>
+    <string name="desc_button_skip_backward">Previous track</string>
+    <string name="desc_button_skip_forward">Next track</string>
+    <string name="desc_button_stop">Stop</string>
+    <string name="desc_button_subtitle_delay_decrease">Decrease subtitle delay</string>
+    <string name="desc_button_subtitle_delay_increase">Increase subtitle delay</string>
+    <string name="desc_button_subtitle_delay_toggle">Toggle subtitle delay between none and preset</string>
+    <string name="description">Remote control for VideoLAN Client (VLC) media player.</string>
+    <string name="dvd_instructions">Swipe left, right, up, and down to navigate DVD menus. Tap to select a menu item.</string>
+    <string name="edit_server">Edit VLC Server</string>
+    <string name="emptyplaylist">Playlist is empty.</string>
+    <string name="error_does_not_exist">The selected folder does not exist.</string>
+    <string name="faqs">FAQ\'s</string>
+    <string name="goto_playback">Playback</string>
+    <string name="goto_start">Library</string>
+    <string name="hide_dvd_tab">Hide DVD tab</string>
+    <string name="hint_library_add">Library Name</string>
+    <string name="hotkeys">Hotkeys</string>
+    <string name="install_guide">Install Guide</string>
+    <string name="label_hostname">Hostname or IP address</string>
+    <string name="label_nickname">Server Nickname (Optional)</string>
+    <string name="label_password">Password (default: none)</string>
+    <string name="label_port">Port (default: 8080)</string>
+    <string name="label_user">User (default: none)</string>
+    <string name="layout_tablet">tablet</string>
+    <string name="loading">Loading…</string>
+    <string name="lock_pager">Lock Pager</string>
+    <string name="mediasearch">Search for %s using:</string>
+    <string name="menu_browse_text_size">Text Size</string>
+    <string name="menu_clear_playlist">Clear playlist</string>
+    <string name="menu_parent">Parent Directory</string>
+    <string name="menu_parent_condensed">Parent</string>
+    <string name="menu_set_home">Set As Home</string>
+    <string name="no_media">No media selected</string>
+    <string name="noserver">Server not selected.</string>
+    <string name="nowplaying_title">Playing</string>
+    <string name="ok">OK</string>
+    <string name="parse_playlist_items">Detect media information in playlist</string>
+    <string name="pause_for_call">Pause for phone calls</string>
+    <string name="playlist_loop">Loop</string>
+    <string name="playlist_repeat">Repeat</string>
+    <string name="playlist_shuffle">Shuffle</string>
+    <string name="playlist_title">Playlist</string>
+    <string name="preference_category_phone_title">Phone</string>
+    <string name="preference_key_audio_delay">audio_delay</string>
+    <string name="preference_key_button_fifth">button_fifth</string>
+    <string name="preference_key_button_first">button_first</string>
+    <string name="preference_key_button_fourth">button_fourth</string>
+    <string name="preference_key_button_second">button_second</string>
+    <string name="preference_key_button_third">button_third</string>
+    <string name="preference_key_notification">notification</string>
+    <string name="preference_key_notification_icon_transparent">notification_icon_transparent</string>
+    <string name="preference_key_subtitle_delay">subtitle_delay</string>
+    <string name="preference_screen_buttons_key">preference_screen_buttons</string>
+    <string name="preference_screen_buttons_title">Choose Buttons</string>
+    <string name="preference_screen_interface_key">preference_screen_interface</string>
+    <string name="preference_screen_interface_title">Interface Settings</string>
+    <string name="preference_screen_notification_key">preference_screen_notification</string>
+    <string name="preference_screen_notification_title">Notification Controls</string>
+    <string name="preference_screen_presets_key">preference_screen_presets</string>
+    <string name="preference_screen_presets_title">Presets</string>
+    <string name="preference_server_subtitle_key">server_subtitle</string>
+    <string name="preference_server_subtitle_title">Show Server Subtitle</string>
+    <string name="preference_title_audio_delay">Audio Delay</string>
+    <string name="preference_title_button_fifth">Button 5</string>
+    <string name="preference_title_button_first">Button 1</string>
+    <string name="preference_title_button_fourth">Button 4</string>
+    <string name="preference_title_button_second">Button 2</string>
+    <string name="preference_title_button_third">Button 3</string>
+    <string name="preference_title_notification">Notification Controls</string>
+    <string name="preference_title_notification_icon_transparent">Use transparent icon</string>
+    <string name="preference_title_subtitle_delay">Subtitle Delay</string>
+    <string name="preferences_seek_summary">The amount of time (in seconds) to seek forward/backward when pressed</string>
+    <string name="preferences_seek_title">Seek time (s)</string>
+    <string name="progress_scanning">Scanning</string>
+    <string name="refresh">Refresh</string>
+    <string name="scan">Scan</string>
+    <string name="search_hint">Enter MRL</string>
+    <string name="search_label">Input</string>
+    <string name="section_parent">⇧</string>
+    <string name="seek_backwards">Seek backward</string>
+    <string name="seek_forwards">Seek forward</string>
+    <string name="server_error">Failed to connect to server</string>
+    <string name="server_forbidden">Forbidden. Please check VLC\'s .hosts file</string>
+    <string name="server_ok">Connection successful</string>
+    <string name="server_unauthorized">Invalid username or password</string>
+    <string name="service_label">VLC Remote Service</string>
+    <string name="sethome">Home set to %s</string>
+    <string name="settings">Settings</string>
+    <string name="size_large">Large Text</string>
+    <string name="size_medium">Medium Text</string>
+    <string name="size_small">Small Text</string>
+    <string name="sort_directories_first">Sort Directories First</string>
+    <string name="subtitle_track">Subtitle track</string>
+    <string name="summary_forbidden">
+        Please edit
+        <b>.hosts</b>
+        file on your PC
+    </string>
+    <string name="summary_hide_dvd_tab">Hides the DVD navigation tab</string>
+    <string name="summary_not_in_range">Not in range</string>
+    <string name="summary_parse_playlist_items">Detect the media information from the filename in the playlist. (May take longer to load playlist)</string>
+    <string name="summary_pause_for_call">Pause media playback during phone calls</string>
+    <string name="summary_preference_audio_delay">Audio delay (in ms) to be toggled</string>
+    <string name="summary_preference_button_fifth">Choose the button to appear fifth</string>
+    <string name="summary_preference_button_first">Choose the button to appear first</string>
+    <string name="summary_preference_button_fourth">Choose the button to appear fourth</string>
+    <string name="summary_preference_button_second">Choose the button to appear second</string>
+    <string name="summary_preference_button_third">Choose the button to appear third. This button may be moved depending on orientation/screen size</string>
+    <string name="summary_preference_notification">Add basic playback controls to the notification drawer</string>
+    <string name="summary_preference_notification_icon">Use a transparent icon instead of VLC\'s cone in the notification drawer</string>
+    <string name="summary_preference_subtitle_delay">Subtitle delay (in ms) to be toggled</string>
+    <string name="summary_remembered">Remembered</string>
+    <string name="summary_server_subtitle">Show the server nickname (or address if not set) as a subtitle in the action bar.</string>
+    <string name="summary_sort_directories_first">When browsing your library, ensure directories are sorted before files. Default is VLC\'s default (alphabetical)</string>
+    <string name="summary_unauthorized">Requires Authentication</string>
+    <string name="summary_wifi_connected">Connected to {0}</string>
+    <string name="summary_wifi_disconnected">Warning: Wi-Fi is disconnected</string>
+    <string name="tab_dvd">DVD</string>
+    <string name="tab_playlist">Playlist</string>
+    <string name="test_server_button">Test</string>
+    <string name="title">VLC Remote [{0}]</string>
+    <string name="title_dialog_add_library">Add To New Library</string>
+    <string name="title_dialog_remove_from_library">Remove directory from Library</string>
+    <string name="title_dialog_whats_new">What\'s New?</string>
+    <string name="title_pick_server">Pick Server</string>
+    <string name="toast_added_to_library">Added %1$s to library %2$s</string>
+    <string name="toggle_fullscreen">Toggle fullscreen</string>
+    <string name="validate_auth">A username or password is required</string>
+    <string name="validate_host">The host cannot be empty</string>
+    <string name="validate_port">The port number must be numeric</string>
+    <string name="vlc_servers">VLC Servers</string>
+    <string name="volume">Volume: </string>
+    <string name="wifi">Wi-Fi</string>
+    <style name="Theme" parent="android:Theme.NoTitleBar">
+    </style>
+    <style name="ToggleButton" parent="android:Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">64dp</item>
+        <item name="android:minHeight">54dp</item>
+    </style>
+    <style name="actionButtonStyleSmall">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:layout_width">48dp</item>
+        <item name="android:layout_height">48dp</item>
+    </style>
+    <style name="actionButtonStyleWide">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>

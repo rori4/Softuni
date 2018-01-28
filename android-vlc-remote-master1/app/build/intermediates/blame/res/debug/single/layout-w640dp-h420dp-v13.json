@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-w640dp-h420dp-v13\\main.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-w640dp-h420dp\\main.xml"
+    },
+    {
+        "merged": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout-w640dp-h420dp-v13\\buttons_fragment.xml",
+        "source": "D:\\OneDrive\\Softuni\\android-vlc-remote-master1\\app\\src\\main\\res\\layout-w640dp-h420dp\\buttons_fragment.xml"
+    }
+]
